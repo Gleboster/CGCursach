@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Matrix">
+      <UniqueIdentifier>{9c75dbdf-56b7-418e-ba48-c6b4306cc7b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Model">
+      <UniqueIdentifier>{f1897737-2541-4eef-be3b-41566045d250}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Controller">
+      <UniqueIdentifier>{12364890-7dad-41f3-b136-40c3c7d22f35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Form">
+      <UniqueIdentifier>{5f252370-73af-4fe2-94eb-65e356487c7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Form">
+      <UniqueIdentifier>{9973320c-a16d-421e-8f5a-2dc1579ede5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MVC">
+      <UniqueIdentifier>{99b9dfe5-3f39-4ab0-8634-8ec01f102f3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MVC\Model">
+      <UniqueIdentifier>{cec2852d-b8ca-4784-bbb2-76923777febf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MVC\Model\Transform">
+      <UniqueIdentifier>{48872533-8137-4980-b20b-43d395e8cdbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MVC\Model\SceneObject">
+      <UniqueIdentifier>{f401b3a9-2650-4350-8d2c-363eb1f1909b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MVC\Controller">
+      <UniqueIdentifier>{16cea856-bda2-415a-981e-a85f888fdc24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MVC\View">
+      <UniqueIdentifier>{1147da45-03c3-4de0-a183-3a504e60cedb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Form\Input">
+      <UniqueIdentifier>{a068b85d-29fd-4323-b34e-76a127dcc4a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Form\Output">
+      <UniqueIdentifier>{c5a87ce9-38f1-4f75-a3dc-e2ae04c30960}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Form\Panel">
+      <UniqueIdentifier>{2f2848d0-415f-44e2-a7eb-5bf6d71cad54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Form\Panel">
+      <UniqueIdentifier>{ac15ccee-de3e-49aa-b4a7-8eed4baab166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Matrix">
+      <UniqueIdentifier>{a137034f-fe57-459a-963f-c6aa3f328516}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MVC\Model\Scene">
+      <UniqueIdentifier>{bfe585b1-db05-4f18-b304-4a76ba546020}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Model\Scene">
+      <UniqueIdentifier>{ea220f70-c7f3-409d-ac49-a15d1b9cf7d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Model\Scene\SceneObject">
+      <UniqueIdentifier>{5ee46e2f-3de2-46a0-8965-27325833369a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Model\Scene\SceneObject\Geometrics">
+      <UniqueIdentifier>{4b529bc6-2ae8-49bf-b421-64d8a1653505}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Geometric">
+      <UniqueIdentifier>{0b73ab03-ca72-42cc-8690-deef339b2332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Geometric\Primitives">
+      <UniqueIdentifier>{06fb9d57-f283-4221-82df-aa82cb101170}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Geometric\Primitives\Graph">
+      <UniqueIdentifier>{62a4a8a0-1b95-4b9a-a6ff-079082002f6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Geometric\Primitives\Absolut">
+      <UniqueIdentifier>{6d2d1f3a-db77-4a1b-af15-6451ae7f104d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Geometric\Geometrics">
+      <UniqueIdentifier>{03a8503c-f671-49e1-b370-cfa9457fbd77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Program.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadOnlyGeometric.cpp">
+      <Filter>Исходные файлы\Model\Scene\SceneObject\Geometrics</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformableGeometric.cpp">
+      <Filter>Исходные файлы\Model\Scene\SceneObject\Geometrics</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometric.cpp">
+      <Filter>Исходные файлы\Model\Scene\SceneObject\Geometrics</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Исходные файлы\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneObject.cpp">
+      <Filter>Исходные файлы\Model\Scene\SceneObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>Исходные файлы\Model\Scene\SceneObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Исходные файлы\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputBox.cpp">
+      <Filter>Исходные файлы\Form\Output</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelOnce.cpp">
+      <Filter>Исходные файлы\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="InputPanel.cpp">
+      <Filter>Исходные файлы\Form\Panel</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewPanel.cpp">
+      <Filter>Исходные файлы\Form\Panel</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratorTransformMatrix.h">
+      <Filter>Файлы заголовков\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratorTMatrix.cpp">
+      <Filter>Исходные файлы\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Исходные файлы\Model\Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>Файлы заголовков\Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="Edge.h">
+      <Filter>Файлы заголовков\Geometric\Primitives\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Файлы заголовков\Geometric\Primitives\Absolut</Filter>
+    </ClInclude>
+    <ClInclude Include="Segment.h">
+      <Filter>Файлы заголовков\Geometric\Primitives\Absolut</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Файлы заголовков\Geometric\Primitives\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Файлы заголовков\Geometric\Primitives\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Файлы заголовков\MVC\Model\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Manipulations.h">
+      <Filter>Файлы заголовков\MVC\Model\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometric.h">
+      <Filter>Файлы заголовков\Geometric\Geometrics</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneObject.h">
+      <Filter>Файлы заголовков\MVC\Model\SceneObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Файлы заголовков\MVC\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>Файлы заголовков\MVC\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="OutputBox.h">
+      <Filter>Файлы заголовков\Form</Filter>
+    </ClInclude>
+    <ClInclude Include="MVC.h">
+      <Filter>Файлы заголовков\MVC</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Файлы заголовков\MVC\View</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelOnce.h">
+      <Filter>Файлы заголовков\MVC\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="InputPanel.h">
+      <Filter>Файлы заголовков\Form\Panel</Filter>
+    </ClInclude>
+    <ClInclude Include="Panel.h">
+      <Filter>Файлы заголовков\Form\Panel</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewPanel.h">
+      <Filter>Файлы заголовков\Form\Panel</Filter>
+    </ClInclude>
+    <ClInclude Include="InputBox.h">
+      <Filter>Файлы заголовков\Form\Panel</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewEdges.h">
+      <Filter>Файлы заголовков\MVC\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Файлы заголовков\MVC\Model\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Surface.h">
+      <Filter>Файлы заголовков\Geometric\Primitives\Absolut</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Файлы заголовков\Geometric\Primitives\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="Track.h">
+      <Filter>Файлы заголовков\Geometric\Primitives\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewSurfaces.h">
+      <Filter>Файлы заголовков\MVC\View</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
